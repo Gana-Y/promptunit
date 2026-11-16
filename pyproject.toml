@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "promptunit"
+version = "0.1.0"
+description = "Unit tests for your LLM prompts: a tiny pytest plugin with fluent assertions, response caching and provider adapters."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Ganesh Yandigeri", email = "ganeshyandigeri1@gmail.com" }]
+keywords = ["llm", "prompt", "testing", "pytest", "evals", "ai", "openai", "anthropic", "ollama"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Framework :: Pytest",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Topic :: Software Development :: Testing",
+]
+dependencies = ["pytest>=7"]
+
+[project.optional-dependencies]
+schema = ["jsonschema>=4"]
+dev = ["jsonschema>=4", "ruff"]
+
+[project.urls]
+Homepage = "https://github.com/Gana-Y/promptunit"
+Issues = "https://github.com/Gana-Y/promptunit/issues"
+
+[project.scripts]
+promptunit = "promptunit.cli:main"
+
+[project.entry-points.pytest11]
+promptunit = "promptunit.plugin"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+promptunit = ["py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "examples"]
+pythonpath = ["src"]

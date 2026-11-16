@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-label="pytest examples -v">
+<rect width="900" height="360" rx="10" fill="#0d1117"/>
+<rect width="900" height="34" rx="10" fill="#161b22"/><rect y="24" width="900" height="10" fill="#161b22"/>
+<circle cx="20" cy="17" r="6" fill="#ff5f56"/><circle cx="40" cy="17" r="6" fill="#ffbd2e"/><circle cx="60" cy="17" r="6" fill="#27c93f"/>
+<text x="450" y="22" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans', 'Noto Sans Kannada', 'Noto Sans Devanagari', Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">pytest examples -v</text>
+<text x="18.0" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#56d364" xml:space="preserve">$</text>
+<text x="33.7" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#f0f6fc" xml:space="preserve">pytest</text>
+<text x="88.4" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#f0f6fc" xml:space="preserve">examples</text>
+<text x="158.9" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#f0f6fc" xml:space="preserve">-v</text>
+<text x="18.0" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" font-weight="bold" xml:space="preserve">=======================================</text>
+<text x="331.0" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" font-weight="bold" xml:space="preserve">test</text>
+<text x="370.2" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" font-weight="bold" xml:space="preserve">session</text>
+<text x="432.8" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" font-weight="bold" xml:space="preserve">starts</text>
+<text x="487.6" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" font-weight="bold" xml:space="preserve">========================================</text>
+<text x="18.0" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" font-weight="bold" xml:space="preserve">collecting</text>
+<text x="104.1" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" font-weight="bold" xml:space="preserve">...</text>
+<text x="135.4" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">collected</text>
+<text x="213.6" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">5</text>
+<text x="229.3" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">items</text>
+<text x="18.0" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">test_support_bot.py::test_refund_answer_mentions_policy_and_is_short</text>
+<text x="558.0" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">PASSED</text>
+<text x="745.8" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">[</text>
+<text x="761.5" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">20%]</text>
+<text x="18.0" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">test_support_bot.py::test_never_leaks_personal_data</text>
+<text x="425.0" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">PASSED</text>
+<text x="745.8" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">[</text>
+<text x="761.5" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">40%]</text>
+<text x="18.0" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">test_support_bot.py::test_order_intent_is_raw_json_with_required_keys</text>
+<text x="565.8" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">PASSED</text>
+<text x="745.8" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">[</text>
+<text x="761.5" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">60%]</text>
+<text x="18.0" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">test_support_bot.py::test_json_is_reliable_across_samples</text>
+<text x="471.9" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">PASSED</text>
+<text x="745.8" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">[</text>
+<text x="761.5" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">80%]</text>
+<text x="18.0" y="222" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">test_support_bot.py::test_greeting_is_in_latin_script_and_friendly</text>
+<text x="542.3" y="222" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">PASSED</text>
+<text x="745.8" y="222" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">[100%]</text>
+<text x="18.0" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">============================================</text>
+<text x="370.2" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">promptunit</text>
+<text x="456.3" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">============================================</text>
+<text x="18.0" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">mode=auto</text>
+<text x="104.1" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">calls=9</text>
+<text x="166.7" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">(live</text>
+<text x="213.6" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">9,</text>
+<text x="237.1" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">cached</text>
+<text x="291.9" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">0)</text>
+<text x="323.2" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">tokens</text>
+<text x="378.0" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">in/out=0/0</text>
+<text x="471.9" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">live</text>
+<text x="511.0" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">latency=0.00s</text>
+<text x="18.0" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">models:</text>
+<text x="80.6" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">support-bot</text>
+<text x="174.5" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">x9</text>
+<text x="18.0" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">========================================</text>
+<text x="338.9" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" font-weight="bold" xml:space="preserve">5</text>
+<text x="354.5" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" font-weight="bold" xml:space="preserve">passed</text>
+<text x="409.3" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">in</text>
+<text x="432.8" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">0.01s</text>
+<text x="479.7" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#3fb950" xml:space="preserve">=========================================</text>
+</svg>
